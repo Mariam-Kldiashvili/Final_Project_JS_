@@ -1,0 +1,240 @@
+@media (max-width: 480px) {
+  header {
+    padding: 30px;
+  }
+
+  .header_logo {
+    width: 30%;
+  }
+
+  .mainDiv {
+    padding: 10px;
+    margin-top: 77px;
+    }
+    
+
+
+  .userOneDiv {
+    width: 100%;
+    height: 58vh;
+    margin-bottom: 15px;
+  }
+
+
+  .page-link {
+    font-size: .5rem;
+
+  }
+
+  .likeButton {
+    margin-top: 5px;
+    font-size: 0.7rem;
+  }
+
+  #fa-basket-shopping {
+    display: none;
+  }
+
+  #fa-list {
+    display: block;
+  }
+
+  .login {
+    display: none;
+  }
+
+  .resistracion {
+    display: none;
+  }
+
+
+
+  .navigation_ul {
+    font-size: 3rem;
+    position: fixed;
+    top: 55px;
+    height: 200px;
+    width: 100%;
+    background-color: #f3f3f3;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    left: -101%;
+    transform: (-50%);
+    gap: 50px;
+
+  }
+
+
+  .show1 {
+    left: 0%;
+  }
+
+  .navigation_li {
+    font-size: 1rem;
+  }
+
+  .userOneDiv {
+    width: 80%;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  p {
+    font-size: 1.2rem;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+
+  .likeButton {
+    margin-top: 7px;
+  }
+
+  
+  footer {
+    width: 100%;
+    padding: 30px 30px 30px 90px;
+  }
+
+  h3 {
+    display: none;
+  }
+
+  .footer_text {
+    display: none;
+  }
+
+  .footer_icons {
+    gap: 70px;
+  }
+
+  .fa-facebook-messenger {
+    font-size: 1.3rem;
+  }
+
+  .fa-instagram {
+    font-size: 1.3rem;
+  }
+
+  .fa-youtube {
+    font-size: 1.3rem;
+  }
+
+  .newPageImages {
+    width: 30%;
+    height: 10vh;
+    margin-left: 15px;
+  }
+
+  .newPageImages:hover {
+    cursor: pointer;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5), 0 0 25px rgba(0, 0, 0, 0.5);
+  }
+
+  footer {
+    padding: 15px 30px 15px 20px;
+
+  }
+
+
+
+  /* contact page */
+
+  .fa-cart-shopping {
+    display: none;
+  }
+
+
+  main {
+
+    padding: 50px 0 50px 0;
+
+  }
+
+  .contactdiv {
+    width: 100%;
+    flex-direction: column;
+    padding: 34px 40px 38px 40px;
+    row-gap: 86px;
+  }
+
+  .contactdiv1 {
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 0;
+  }
+
+  .contact {
+    display: none;
+  }
+
+  .Formdiv {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+
+
+  .infodiv {
+
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 100%;
+
+
+  }
+
+  .Fullname {
+    width: 100%;
+    font-size: 1.25rem;
+    margin-bottom: 42px;
+  }
+
+
+  .mail {
+    width: 100%;
+    font-size: 1.25rem;
+
+  }
+
+  .submit {
+    margin-top: 10px;
+    width: 65%;
+    height: 44px;
+
+  }
+
+  .submit:hover {
+    cursor: pointer;
+  }
+
+
+  button[type="submit"] {
+    margin-top: 0;
+  }
+
+
+
+  .fa-phone {
+    font-size: 2.5rem;
+  }
+
+
+  .fa-square-envelope {
+    font-size: 2.5rem;
+  }
+
+
+
+  .fa-location-pin {
+    font-size: 2.5rem;
+
+  }
+
+
+}

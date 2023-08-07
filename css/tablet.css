@@ -1,0 +1,101 @@
+
+  
+  @media (max-width: 905px) {
+    header {
+      padding: 30px 15px 30px 15px;
+      display: flex;
+    }
+    .navigation_ul {
+      display: flex;
+       gap: 90px;
+    }
+    .navigation_li {
+      font-size: .9rem;
+    }
+    .userOneDiv {
+      width: 45%;
+    }
+      
+  .mainDiv {
+      margin-top: 60px;
+    
+  }
+
+    .likeButton {
+      margin-top: 10px;
+      width: 40%;
+      padding: 4px;
+    }
+    h2 {
+      margin-top: 8px;
+      font-size: 1rem;
+    }
+    .page-link {
+      font-size: 1.5rem;
+    }
+    h3 {
+      font-size: 1.1rem;
+      width: 180px;
+    }
+    .footer_text {
+      font-size: 0.8rem;
+    }
+    .footer_icons {
+      gap: 15px;
+    }
+    
+    .login{
+      display: none;
+    }
+    .resistracion{
+      display: none;
+    }
+  }
+  
+  @media (max-width: 750px) {
+    .likeButton {
+      margin-top: 10px;
+      font-size: 1.1rem;
+    }
+    .page-link {
+      font-size: 1rem;
+    }
+    h3 {
+      font-size: 0.8rem;
+      width: 130px;
+    }
+    .footer_icons {
+      display: flex;
+      gap: 20px;
+    }
+  }
+  
+  @media (max-width: 665px) {
+    
+    .navigation_li {
+      font-size: 0.65rem;
+    }
+    .userOneDiv {
+      width: 45%;
+    }
+    h1 {
+      font-size: 1.3rem;
+    }
+    p {
+      font-size: 1rem;
+    }
+    .likeButton {
+      width: 50%;
+    }
+    h2 {
+      font-size: 1rem;
+    }
+    .page-link {
+      font-size: 0.8rem;
+    }
+  
+    .footer_text {
+      font-size: 0.8rem;
+    }
+   
+  }
